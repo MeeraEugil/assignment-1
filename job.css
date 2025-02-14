@@ -1,0 +1,62 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: lightgray;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    background: white;
+    padding: 30px;
+    max-width: 600px;
+    margin: auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    border: 1px solid lightgray;
+    border-left: 5px solid blue;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 26px;
+    text-transform: uppercase;
+}
+
+hr {
+    border: 0;
+    height: 2px;
+    background: blue;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 16px;
+    color: darkslategray;
+    line-height: 1.8;
+}
+
+ul {
+    margin-left: 20px;
+    color: darkslategray;
+}
+
+.signature {
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+}
+
+a:hover {
+    color: darkblue;
+}
+
+blockquote {
+    border-left: 4px solid blue;
+    padding-left: 10px;
+    font-style: italic;
+}

@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Application Letter</title>
+    
+    <!-- Internal CSS -->
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        
+        .container {
+            background: white;
+            padding: 30px;
+            max-width: 600px;
+            margin: auto;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+            border: 1px solid #ddd;
+        }
+        
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        
+        hr {
+            border: 0;
+            height: 2px;
+            background: #007bff;
+            margin-bottom: 20px;
+        }
+        
+        p {
+            font-size: 16px;
+            color: #444;
+            line-height: 1.8;
+        }
+        
+        strong {
+            color: #000;
+        }
+        
+        em {
+            color: #007bff;
+        }
+        
+        ul, ol {
+            margin-left: 20px;
+        }
+        
+        .signature {
+            margin-top: 20px;
+            font-weight: bold;
+        }
+        
+        /* External CSS file reference */
+        @import url('styles.css');
+    </style>
+
+    <!-- External CSS file -->
+    <link rel="stylesheet" href="styles.css">
+
+</head>
+<body>
+
+    <div class="container">
+        <h1>Job Application</h1>
+        <hr>
+
+        <p><strong>Meera M Eugil</strong> <br>
+        AM.AI.U4AID23048, <br>
+        Amrita Vishwavidyapeetham, Amritapuri Campus, <br>
+        Clappana P.O, Kollam-690525, India</p>
+
+        <p><strong>Date:</strong> <em>14 February 2025</em></p>
+
+        <p><strong>To,</strong><br>
+        The Hiring Manager, <br>
+        <em>XYZ Tech Solutions</em>, <br>
+        Bengaluru, India</p>
+
+        <p><strong>Subject:</strong> <u>Application for the Position of Data Scientist</u></p>
+
+        <p>Dear Hiring Manager,</p>
+
+        <p>I am writing to express my keen interest in the <strong>Data Scientist</strong> role at <strong>XYZ Tech Solutions</strong>. I have a solid foundation in <em>AI and Data Science</em> and a passion for leveraging data-driven insights to solve real-world problems.</p>
+
+        <p><strong>My qualifications include:</strong></p>
+        
+        <ul>
+            <li>B.Tech in <em>AI and Data Science</em> (Ongoing)</li>
+            <li>Proficiency in <strong>Python, Machine Learning, and Deep Learning</strong></li>
+            <li>Experience in <u>Predictive Maintenance</u> and <u>Data Analytics</u> projects</li>
+        </ul>
+
+        <p>I am particularly drawn to this role because of the opportunity to contribute to innovative projects and grow within a dynamic team. I believe my skills align well with your company's mission.</p>
+
+        <blockquote>
+            <em>"Passion for technology and dedication to learning define my approach to work."</em>
+        </blockquote>
+
+        <p>Thank you for your time and consideration. I look forward to the possibility of discussing how my skills can contribute to your team.</p>
+
+        <p class="signature">
+            Sincerely, <br>
+            <strong>Meera M Eugil</strong> <br>
+            <a href="mailto:meeram.eugil@email.com">meeram.eugil@email.com</a> <br>
+            <a href="tel:+919876543210">+91 98765 43210</a>
+        </p>
+    </div>
+
+</body>
+</html>
